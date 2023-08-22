@@ -1,6 +1,6 @@
 spring:
   application:
-    name: TestApplication
+    name: Microservices1
 
 server:
   port: 8081
